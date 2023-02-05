@@ -7,8 +7,8 @@
 <li>🌱  Technology is constantly evolving and it's important for me to evolve with it.</li>
 <h4>🛠 Tech Stack</h4>
 <li>💻  PHP | Laravel</li>
-<li>🌐  HTML | CSS
-<li>🌐  JavaScript | jQuery | Bootstrap
+<li>🌐  HTML | CSS | Bootstrap
+<li>🌐  Vue | JavaScript | jQuery
 <li>🛢   SQL</li>
 <li>🔧  Git</li>
 
